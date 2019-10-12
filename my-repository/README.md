@@ -1,1 +1,1 @@
-"This is my eadme file"git push --set-upstream master master
+"This is my readme file"
